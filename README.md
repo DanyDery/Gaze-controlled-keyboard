@@ -110,4 +110,4 @@ g
 
 #### Danylo Derevianskyi (DanyDery)
 
-<a href="[https://www.linkedin.com/in/daniel-dear]"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
+<a href="https://www.linkedin.com/in/daniel-dear"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
