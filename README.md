@@ -1,8 +1,8 @@
-# gaze_controlled_keyboard
+# Gaze-controlled-keyboard
 
 First, we identify our face in real time using the Dlib library.
 Let's move on to calling the shape_predictor_68_face_landmarks.dat file, which will be used to determine the points on our face.
-
+![alt text] (https://ibug.doc.ic.ac.uk/media/uploads/images/annotpics/figure_68_markup.jpg)
 By capturing real-time footage from the webcam, once a face is detected, you can move on to eye detection.
 Using the face landmark detection approach, we can find 68 specific facial landmarks.
 Each point is assigned a specific index. We need to find reference coordinates for the two eyes:
