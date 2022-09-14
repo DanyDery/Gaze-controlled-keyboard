@@ -106,8 +106,6 @@ g
 * Akshay Chandra Lagandula. *Mouse Cursor Control Using Facial Movements*. [https://towardsdatascience.com/c16b0494a971](https://towardsdatascience.com/c16b0494a971).
 
 
-### Author
-
 #### Danylo Derevianskyi (DanyDery)
 
 <a href="https://www.linkedin.com/in/daniel-dear"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
