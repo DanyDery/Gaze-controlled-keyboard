@@ -1,5 +1,7 @@
 # Gaze_Controlled_Keyboard
 
+Project where we will control the keyboard through our eyes using Python with Opencv
+
 ## Table of Content:
 * [Overview](https://github.com/DanyDery/Gaze-controlled-keyboard#Overview)
 * [Motivation](https://github.com/DanyDery/Gaze-controlled-keyboard#Motivation)
